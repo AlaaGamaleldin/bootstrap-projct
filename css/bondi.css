@@ -123,5 +123,11 @@ height: 10000px;
     transform: translatex(0);
 }
 /*--end our work*/
+/*start stuff*/
+.stuff .description {
+    max-width: 500px;
+}
+/*end stuff*/
+
 
 
